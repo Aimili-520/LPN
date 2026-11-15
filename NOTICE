@@ -1,0 +1,5 @@
+LPN core model implementation
+
+Includes the unmodified ncps 1.0.1 CfCCell implementation.
+Copyright 2022 Mathias Lechner and Ramin Hasani.
+Licensed under the Apache License, Version 2.0; see third_party/ncps-LICENSE.
